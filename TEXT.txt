@@ -3,7 +3,7 @@ Kinza Kanwal
 2018-CS-05
 After a seminar here I am to reattend the DSC workshop.2-10-2019,Wednesday
 made a new branch and switched to it 
-After a seminar here I am to reattend the DSC workshop. 2-10-2019,Wednesday
-made a new branch and switched to it.
+
 Here I am with Kinza kanwal and trying to make my first contribution.
 Hey Kinza!
+Hey Maria, how is everthing going! Let's contibute to 2nd hactoberfest. Hopefully it's a useful addition to this file. We went through a lot during this whole time. Made new friends, captured a lot of memories. Happy HactoberFest, Happy Friendship :) Hope you like it.
